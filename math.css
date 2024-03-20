@@ -1,0 +1,16 @@
+#body{
+    min-height: max-content;
+}
+#carousel{
+    padding-top: 3.5rem;
+    margin-bottom: 2rem;
+
+}
+
+#chem{
+    margin-top: 3rem;
+}
+
+#physic{
+    margin-top: 2rem;
+}

@@ -1,0 +1,23 @@
+body{
+    min-height: 2000;
+}
+#carousel{
+    padding-top: 3.5rem;
+}
+#trailer{
+    padding-top: 2rem;
+    padding-left: 2rem;
+}
+.col-4{
+    margin-left: 8rem;
+    text-align: left;
+}
+
+.card-group{
+    padding-left: 6rem;
+}
+
+.h3{
+    margin: 2rem;
+    ;
+}
